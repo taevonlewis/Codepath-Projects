@@ -12,7 +12,7 @@ The projects have been listed chronologically, with the <strong>latest project b
 
 </details>
 
-### [My Story](mystory)<a name="MyStory"></a>
+### [My Story](My-Story)<a name="MyStory"></a>
 
 My Story is a iOS app created using only Storyboard. The app is a profile page about a fictional character, Cid Kagenou, from the anime The Eminence in the Shadow. The app features high-level context items on its initial screen, which the user can tap on to reveal more information about Cid Kagenou.
 
