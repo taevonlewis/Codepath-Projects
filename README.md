@@ -18,7 +18,7 @@ The projects have been listed chronologically, with the <strong>latest project b
 * [Flixster Pt. 1](https://github.com/lewist13/Flixster-Pt.-1)
 </details>
 
-### [My Story](My-Story)
+### [My Story](https://github.com/lewist13/My-Story)
 
 My Story is a iOS app created using only Storyboard. The app is a profile page about a fictional character, Cid Kagenou, from the anime The Eminence in the Shadow. The app features high-level context items on its initial screen, which the user can tap on to reveal more information about Cid Kagenou.
 
@@ -27,7 +27,7 @@ Additonal Details:
 
 - Additionally, the app includes a customized app icon and launch screen. The launch screen displays the Profile view, providing a seamless experience for the user.
 
-### [Flixster Pt. 1](Flixster-Pt.-1)<a name="MyStory"></a>
+### [Flixster Pt. 1](https://github.com/lewist13/Flixster-Pt.-1)
 Flixster Pt. 1 is a movie browsing app using the Movie Database API and comes with a host of features. Users can view the app icon and launch screen customized to their preferences. The app also supports different screen sizes and orientations using AutoLayout constraints.
 
 The app has a table view displaying at least 5 different movies, and users can tap into a detail view for each movie, complete with a full description, backdrop image, and title.
