@@ -17,6 +17,7 @@ The projects have been listed chronologically, with the <strong>latest project b
 * [My Story](https://github.com/lewist13/My-Story)
 * [Flixster Pt. 1](https://github.com/lewist13/Flixster-Pt.-1)
 * [Flixster Pt. 2](https://github.com/lewist13/Flixster-Pt.-2)
+* [Photo Scavenger Hunt](https://github.com/lewist13/Photo-Scavenger-Hunt)
 
 </details>
 
@@ -38,3 +39,6 @@ The app has a table view displaying at least 5 different movies, and users can t
 Flixster Pt. 2 is an updated version of [Flixster Pt. 1](https://github.com/lewist13/Flixster-Pt.-1/tree/uikit) that adds more advanced features such as networking and a collection view to display movies in a grid-like layout. With networking using URLSession, the app now fetches now playing movie data from The Movie DB (TMDB) API, allowing users to view more up-to-date movie information. The app also includes a UITabBarController to provide multiple ways to view movies and navigate through the app.
 
 The main feature of Flixster Pt. 2 is the use of a UICollectionView to display movie posters in a more visually appealing way. Users can tap on a movie poster to navigate to the detail view, which includes a full description, title, and backdrop image of the selected movie. Overall, Flixster Pt. 2 is a more feature-rich version of Flixster Pt. 1 that provides a more engaging and interactive movie browsing experience for users.
+
+### [Photo Scavenger Hunt](https://github.com/lewist13/Photo-Scavenger-Hunt)
+Photo Scavenger App is an engaging iOS application designed for users to participate in a scavenger hunt, which involves completing a list of tasks by attaching photos corresponding to each task. The app provides an interactive experience by displaying the location of the attached photos on a map. The application is built using advanced technologies like PHPicker for selecting photos and MapKit for map integration.
